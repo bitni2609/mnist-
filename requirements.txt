@@ -1,0 +1,6 @@
+Flask
+tensorflow
+matplotlib
+Image
+
+
